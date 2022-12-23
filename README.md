@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sinasoltani123
+- 👋 Hi, I’m Sina Soltani @sinasoltani123
 - 👀 I’m interested in AI, music , neuroscience
 - 🌱 I’m currently learning RL,DNNs
 - 💞️ I’m looking to collaborate on anything AI related
