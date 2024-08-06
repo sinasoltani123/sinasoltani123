@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sina Soltani @sinasoltani123
-- 👀 I’m interested in AI, music , neuroscience, genetics and the universe
+- 👀 I’m interested in AI, music , neuroscience, genetics and understanding the universe
 - 🌱 I’m currently learning RL,DNNs
 - 💞️ I’m looking to collaborate on anything AI related
 - 📫 How to reach me sinas7684@gmail.com
